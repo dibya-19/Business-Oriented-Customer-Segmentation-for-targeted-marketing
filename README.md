@@ -204,32 +204,6 @@ The project includes:
 
 ---
 
-## Repository Structure
-
-```text
-Customer-Segmentation/
-│
-├── data/
-│   └── Wholesale customers data.csv
-│
-├── notebooks/
-│   └── Customer_Segmentation.ipynb
-│
-├── images/
-│   ├── heatmap.png
-│   ├── elbow_curve.png
-│   ├── pca_clusters.png
-│   └── ...
-│
-├── report/
-│   └── Customer_Segmentation_Report.pdf
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
 
 ## Business Impact
 
