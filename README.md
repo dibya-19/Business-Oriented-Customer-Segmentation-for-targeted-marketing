@@ -251,7 +251,7 @@ Possible future enhancements include:
 
 ## Author
 
-**Dibya Lochan**
+**Dibyalochan Swain**
 
 Final Year B.Tech CSE (AI/ML & Data Science)
 
